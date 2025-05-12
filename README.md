@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Mohamed Amine Ghariani 👋</h1>
-<h3 align="center">Electrical Engineering Student | Robotics Enthusiast | Embedded Systems Developer</h3>
+<h3 align="center">Software Engineering Student | ESPRIT | Software Architecture Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-ghariani/">
