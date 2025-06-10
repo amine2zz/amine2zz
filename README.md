@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-ghariani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://www.behance.net/amineghariani">
+  <a href="">
     <img src="https://img.shields.io/badge/Behance-0057FF?logo=behance&style=for-the-badge" alt="Behance"/>
   </a>
 </p>
@@ -86,7 +86,7 @@ Here are a few selected projects that reflect my passion for tech and problem-so
 - 📧 Email: gharianiamine1@gmail.com | ghariani.amine@aiesec.net
 - 📍 Location: Ariana, Tunisia
 - 📞 Phone: +216 99 712 634
-- 💬 Telegram: [t.me/yourtelegram](https://t.me/yourtelegram)
+- 💬 Telegram: [@AmineGhariani](@AmineGhariani)
 
 ---
 
