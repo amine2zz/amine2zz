@@ -66,8 +66,8 @@ Here are a few selected projects that reflect my passion for tech and problem-so
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedamineghariani&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineghariani&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amine2zz&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine2zz&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ Here are a few selected projects that reflect my passion for tech and problem-so
 - 📧 Email: gharianiamine1@gmail.com | ghariani.amine@aiesec.net
 - 📍 Location: Ariana, Tunisia
 - 📞 Phone: +216 99 712 634
-- 💬 Telegram: [@AmineGhariani](@AmineGhariani)
+- 💬 Telegram: [t.me/yourtelegram](https://t.me/yourtelegram)
 
 ---
 
